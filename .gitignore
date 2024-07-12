@@ -3,3 +3,4 @@ outputs/
 *.prover
 *.verifier  
 .vs
+.env
